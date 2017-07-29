@@ -1,0 +1,10 @@
+neg/1.png
+neg/10.png
+neg/2.png
+neg/3.png
+neg/4.png
+neg/5.png
+neg/6.png
+neg/7.png
+neg/8.png
+neg/9.png
